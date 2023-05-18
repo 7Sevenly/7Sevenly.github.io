@@ -12,19 +12,16 @@ github_username: 7Sevenly
 
 # Email and twitter are optional:
 email: johnhanna000@outlook.com
-twitter_username: No Thanks
+twitter_username: Nah
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
-
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
