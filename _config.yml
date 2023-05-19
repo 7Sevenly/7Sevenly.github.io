@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: A to B
+title: Engineering an Engineer
 description: A blog detailing my life, education, and career as an engineer.
 github_username: 7Sevenly
 
 # Email and twitter are optional:
 email: johnhanna000@outlook.com
-twitter_username: Nah
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: true
