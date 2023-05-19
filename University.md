@@ -1,4 +1,4 @@
-# Education
+# EDUCATION
 
 I began studying engineering at the University of Queensland in 2018. I chose UQ for its large campus, resources, and its vicinity to colleges which I lived in for my first year.
 
