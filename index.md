@@ -4,4 +4,4 @@ It started with my interests in nuclear energy and robotics. I excelled in mathe
 
 ![Image of me and my father](images/Dad_Me_BensWedding.jpeg)
 
-[comment]: # (To include a link -> [link to fast.ai](https://www.fast.ai)
+[link to fast.ai](https://www.fast.ai))
