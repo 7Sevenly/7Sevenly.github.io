@@ -1,8 +1,8 @@
 # Where Do We Start?
 ELEC4630 centres around fastai. It was created by Jeremy Howard and Rachel Thomas, with the goal of democratising deep learning. Fastai wants to break the barriers which keep people from using AI like; complex programming, theoretical mathematics, and the need for huge datacentres and top performing processors.
 
-![Image of me and my father](images/jh-head.jpeg)
-![Image of me and my father](images/rachel_thomas_profile.jpeg)
+![Jeremy Howard](images/jh-head.jpeg)
+![Rachel Thomas](images/rachel_thomas_profile.jpeg)
 
 *Thank you to you both.*
 
