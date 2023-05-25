@@ -1,8 +1,8 @@
 # Where Do We Start?
 ELEC4630 centres around fastai. It was created by Jeremy Howard and Rachel Thomas, with the goal of democratising deep learning. Fastai wants to break the barriers which keep people from using AI like; complex programming, theoretical mathematics, and the need for huge datacentres and top performing processors.
 
-![Jeremy Howard](/images/jh-head.jpeg)
-![Rachel Thomas](/images/rachel_thomas_profile.jpeg)
+![Jeremy Howard](/images/jh-head.jpg)
+![Rachel Thomas](/images/rachel_thomas_profile.jpg)
 
 *Thank you to you both.*
 
@@ -14,7 +14,7 @@ Deep learning is a machine learning technique that trains computers to perform t
 The technique is called *deep* learning because of the increase in hidden layers compared to traditional neural networks. 
 Neural network architecture creates an adaptive system of layered nodes, mimicing the neurons of a human brain (illustrated in the figure below).
 
-![Generalised Diagram of Neural Network](/images/neural_network_diagram.jpeg)
+![Generalised Diagram of Neural Network](/images/neural_network_diagram.jpg)
 
 Some examples where deep learning is used heavily are:
 - Natural Language Processing (NLP)
@@ -35,5 +35,5 @@ A CNN is multi-layered (illustrated in the following figure), stacking many hidd
 the complexity of the fatures increases. It is great at recognising patterns like lines, circles, eyes, and faces. Also, unlike traditional copmuter vision algorithms, 
 CNNs can work with raw images and don't require **pre-processing**. This is a game changer for me and my fellow ELEC4630 students.
 
-![Diagram of a CNN](/images/CNNs.jpeg)
+![Diagram of a CNN](/images/CNNs.jpg)
 
