@@ -4,7 +4,7 @@ ELEC4630 centres around fastai. It was created by Jeremy Howard and Rachel Thoma
 ![Jeremy Howard](/images/jh-head.jpg)
 ![Rachel Thomas](/images/rachel_thomas_profile.jpg)
 
-*Thank you to you both.*
+*Thank you to you both.* [Link to fast.ai](https://www.fast.ai)
 
 I know a little about AI since I completed COMP3702. However, it doesn't dive deep into neural networks or deep learning. So I had to do some research first.
 
