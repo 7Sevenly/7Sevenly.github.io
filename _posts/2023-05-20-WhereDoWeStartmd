@@ -5,7 +5,11 @@ I know a little about AI since I completed COMP3702. However, it doesn't dive de
 
 ## What is Deep learning?
 
-Deep learning is a machine learning technique that trains computers to perform tasks which humans find natural or intuitive. The technique is called *deep* learning because of the increase in hidden layers compared to traditional neural networks. Neural network architecture creates an adaptive system of layered nodes, mimicing the neurons of a human brain.
+Deep learning is a machine learning technique that trains computers to perform tasks which humans find natural or intuitive. 
+The technique is called *deep* learning because of the increase in hidden layers compared to traditional neural networks. 
+Neural network architecture creates an adaptive system of layered nodes, mimicing the neurons of a human brain (illustrated in the figure below).
+
+![Generalised Diagram of Neural Network](images/neural_network_diagram.jpeg)
 
 Some examples where deep learning is used heavily are:
 - Natural Language Processing (NLP)
@@ -19,9 +23,12 @@ Some examples where deep learning is used heavily are:
 - Robotics
 - Playing games
 
-A popular deep neural network is convolutional neural networks (CNN or ConvNet), which were designed for processing structured arrays of data such as images. The CNN works by extracting features directly from the images, not through pretraining but in real time. This elimates the need for manual image feature extraction.
+A popular deep neural network is convolutional neural networks (CNN or ConvNet), which were designed for processing structured arrays of data such as images. 
+The CNN works by extracting features directly from the images, not through pretraining but in real time. This elimates the need for manual image feature extraction.
 
-A CNN is multi-layered, stacking many hidden layers on top of each other in sequence. These layers allow the CNN to learn how to detect image features; and with every hidden layer, the complexity of the fatures increases. It is great at recognising patterns like lines, circles, eyes, and faces. Also, unlike traditional copmuter vision algorithms, CNNs can work with raw images and don't require **pre-processing**. This is a game changer for me and my fellow ELEC4630 students.
+A CNN is multi-layered (illustrated in the following figure), stacking many hidden layers on top of each other in sequence. These layers allow the CNN to learn how to detect image features; and with every hidden layer, 
+the complexity of the fatures increases. It is great at recognising patterns like lines, circles, eyes, and faces. Also, unlike traditional copmuter vision algorithms, 
+CNNs can work with raw images and don't require **pre-processing**. This is a game changer for me and my fellow ELEC4630 students.
 
-
+![Diagram of a CNN](images/CNNs.jpeg)
 
