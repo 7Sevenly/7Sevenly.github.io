@@ -8,7 +8,7 @@ My name is John Hanna. I was born in Canterbury NZ, spent my early years on Guam
 
 ## WHAT DO I DO?
 I'm in my final year studying a Bachelor of Mechatronic Engineering, at the University of Queensland. 
-I've worked many jobs, but the major ones were as an undergaduate engineer for Smithbridge Group, a rigger for Universal Cranes Sunshine Coast, and as a undergraduate signalling engineer for Rail Control Systems Australia.
+I've worked many jobs, but the major ones were as an undergaduate engineer for Smithbridge Group, a rigger for Universal Cranes Sunshine Coast, and as an undergraduate signalling engineer for Rail Control Systems Australia.
 
 ## WHAT IS THIS FOR?
 I want to document my day-to-day life as an engineer. This includes my studies, career advancement, projects, and perspective of the world.
