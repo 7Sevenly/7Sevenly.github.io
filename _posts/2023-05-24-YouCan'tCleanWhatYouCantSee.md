@@ -8,4 +8,4 @@ In the second video on the Practical Deep Learning Course, Jeremy explains that 
 images based on their loss function. So the images which stand out the most to the model will show first. fastai even has a neat GUI to recategorise or remove images,
 which is illustrated in the figure below.
 
-![fastai cleaner GUI](/images/cleaner_GUI)
+![fastai cleaner GUI](/images/cleaner_GUI.jpg)
